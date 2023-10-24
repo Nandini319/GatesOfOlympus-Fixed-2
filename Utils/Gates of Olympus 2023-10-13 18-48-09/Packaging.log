@@ -1,0 +1,645 @@
+2023-10-13 12:59:05 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x10c3f4650; archive(resolved)="<IDEArchive: 0x60000e1cff60>", distributionTask(resolved)="2", distributionDestination(resolved)="2", distributionMethod(resolved)="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600005e64b80; teamID='T4XNUM422J', teamName='Nandini Vithlani', teamType='Individual', username='nandinivithlani99@gmail.com', isFreeProvisioningTeam='0'>">
+	Chain (17, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x10c3f4650; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005e64b80; teamID='T4XNUM422J', teamName='Nandini Vithlani', teamType='Individual', username='nandinivithlani99@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x10c3f43b0; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005e64b80; teamID='T4XNUM422J', teamName='Nandini Vithlani', teamType='Individual', username='nandinivithlani99@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x10c3e8d90; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005e64b80; teamID='T4XNUM422J', teamName='Nandini Vithlani', teamType='Individual', username='nandinivithlani99@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2a4bad0e0; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005e64b80; teamID='T4XNUM422J', teamName='Nandini Vithlani', teamType='Individual', username='nandinivithlani99@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x291afc6e0; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005e64b80; teamID='T4XNUM422J', teamName='Nandini Vithlani', teamType='Individual', username='nandinivithlani99@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x10c20dd30; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005e64b80; teamID='T4XNUM422J', teamName='Nandini Vithlani', teamType='Individual', username='nandinivithlani99@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x10ad889d0; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005e64b80; teamID='T4XNUM422J', teamName='Nandini Vithlani', teamType='Individual', username='nandinivithlani99@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2a4c71510; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005e64b80; teamID='T4XNUM422J', teamName='Nandini Vithlani', teamType='Individual', username='nandinivithlani99@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x29e90a910; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005e64b80; teamID='T4XNUM422J', teamName='Nandini Vithlani', teamType='Individual', username='nandinivithlani99@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x10c2bc6c0; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005e64b80; teamID='T4XNUM422J', teamName='Nandini Vithlani', teamType='Individual', username='nandinivithlani99@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x29e91e210; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005e64b80; teamID='T4XNUM422J', teamName='Nandini Vithlani', teamType='Individual', username='nandinivithlani99@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2a5dfd670; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005e64b80; teamID='T4XNUM422J', teamName='Nandini Vithlani', teamType='Individual', username='nandinivithlani99@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2a5dd9fa0; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600005e64b80; teamID='T4XNUM422J', teamName='Nandini Vithlani', teamType='Individual', username='nandinivithlani99@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2a23eb180; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x600004795090>", team="(null)">
+	<IDEDistributionContext: 0x2a4c6f6e0; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x2a137d710; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x2a4cc4d00; archive = "<IDEArchive: 0x60000e1cff60>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x10c3f4650>
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionCopyItemStep
+2023-10-13 12:59:05 +0000  Running /usr/bin/ditto '-V' '/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app'
+2023-10-13 12:59:05 +0000  >>> Copying /Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app 
+2023-10-13 12:59:05 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-10-13 12:59:05 +0000  7665 bytes for ./_CodeSignature/CodeResources
+2023-10-13 12:59:05 +0000  copying file ./AppIcon60x60@2x.png ... 
+2023-10-13 12:59:05 +0000  40997 bytes for ./AppIcon60x60@2x.png
+2023-10-13 12:59:05 +0000  copying file ./GoogleService-Info.plist ... 
+2023-10-13 12:59:05 +0000  514 bytes for ./GoogleService-Info.plist
+2023-10-13 12:59:05 +0000  copying file ./Gates of Olympus ... 
+2023-10-13 12:59:05 +0000  315616 bytes for ./Gates of Olympus
+2023-10-13 12:59:05 +0000  copying file ./Assets.car ... 
+2023-10-13 12:59:05 +0000  13609151 bytes for ./Assets.car
+2023-10-13 12:59:05 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+64655 bytes for ./AppIcon76x76@2x~ipad.png
+copying file ./Frameworks/OneSignal.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/OneSignal.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/OneSignal.framework/OneSignal ... 
+822432 bytes for ./Frameworks/OneSignal.framework/OneSignal
+copying file ./Frameworks/OneSignal.framework/Info.plist ... 
+2023-10-13 12:59:05 +0000  761 bytes for ./Frameworks/OneSignal.framework/Info.plist
+2023-10-13 12:59:05 +0000  copying file ./Frameworks/BAKFramework.framework/_CodeSignature/CodeResources ... 
+2023-10-13 12:59:05 +0000  2012 bytes for ./Frameworks/BAKFramework.framework/_CodeSignature/CodeResources
+2023-10-13 12:59:05 +0000  copying file ./Frameworks/BAKFramework.framework/Assets.car ... 
+2023-10-13 12:59:05 +0000  48559 bytes for ./Frameworks/BAKFramework.framework/Assets.car
+2023-10-13 12:59:05 +0000  copying file ./Frameworks/BAKFramework.framework/BAKFramework ... 
+2023-10-13 12:59:05 +0000  8679536 bytes for ./Frameworks/BAKFramework.framework/BAKFramework
+2023-10-13 12:59:05 +0000  copying file ./Frameworks/BAKFramework.framework/Info.plist ... 
+763 bytes for ./Frameworks/BAKFramework.framework/Info.plist
+copying file ./Frameworks/OneSignalExtension.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/OneSignalExtension.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/OneSignalExtension.framework/OneSignalExtension ... 
+113072 bytes for ./Frameworks/OneSignalExtension.framework/OneSignalExtension
+copying file ./Frameworks/OneSignalExtension.framework/Info.plist ... 
+774 bytes for ./Frameworks/OneSignalExtension.framework/Info.plist
+copying file ./Frameworks/OneSignalCore.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/OneSignalCore.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/OneSignalCore.framework/Info.plist ... 
+761 bytes for ./Frameworks/OneSignalCore.framework/Info.plist
+copying file ./Frameworks/OneSignalCore.framework/OneSignalCore ... 
+2023-10-13 12:59:05 +0000  187408 bytes for ./Frameworks/OneSignalCore.framework/OneSignalCore
+2023-10-13 12:59:05 +0000  copying file ./Frameworks/OneSignalOutcomes.framework/_CodeSignature/CodeResources ... 
+2023-10-13 12:59:05 +0000  1798 bytes for ./Frameworks/OneSignalOutcomes.framework/_CodeSignature/CodeResources
+2023-10-13 12:59:05 +0000  copying file ./Frameworks/OneSignalOutcomes.framework/Info.plist ... 
+2023-10-13 12:59:05 +0000  771 bytes for ./Frameworks/OneSignalOutcomes.framework/Info.plist
+2023-10-13 12:59:05 +0000  copying file ./Frameworks/OneSignalOutcomes.framework/OneSignalOutcomes ... 
+2023-10-13 12:59:05 +0000  184816 bytes for ./Frameworks/OneSignalOutcomes.framework/OneSignalOutcomes
+2023-10-13 12:59:05 +0000  copying file ./embedded.mobileprovision ... 
+2023-10-13 12:59:05 +0000  12568 bytes for ./embedded.mobileprovision
+2023-10-13 12:59:05 +0000  copying file ./Info.plist ... 
+2023-10-13 12:59:05 +0000  1456 bytes for ./Info.plist
+2023-10-13 12:59:05 +0000  copying file ./PkgInfo ... 
+2023-10-13 12:59:05 +0000  8 bytes for ./PkgInfo
+2023-10-13 12:59:05 +0000  /usr/bin/ditto exited with 0
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-10-13 12:59:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000e107360; bundleID='ankudinov.org.ua.BAKFramework', path='<DVTFilePath:0x600006dd0690:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/BAKFramework.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54caf0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003ffd500; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='ankudinov.org.ua.BAKFramework', executablePath='<DVTFilePath:0x600006d9e220:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/BAKFramework.framework/BAKFramework'>', hardenedRuntime='0'>'>
+2023-10-13 12:59:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000e104ea0; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x600006df98f0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54f660; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003ffd500; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x600006da7100:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'>
+2023-10-13 12:59:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000e11bd80; bundleID='com.onesignal.OneSignalCore', path='<DVTFilePath:0x600006df8ee0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e50d090; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fd4f00; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalCore', executablePath='<DVTFilePath:0x600006d0b6b0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalCore.framework/OneSignalCore'>', hardenedRuntime='0'>'>
+2023-10-13 12:59:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000e11ab20; bundleID='com.onesignal.OneSignalExtension', path='<DVTFilePath:0x6000069ab780:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalExtension.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e5098b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fd4f00; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalExtension', executablePath='<DVTFilePath:0x600006d0ad10:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalExtension.framework/OneSignalExtension'>', hardenedRuntime='0'>'>
+2023-10-13 12:59:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000e107840; bundleID='com.onesignal.OneSignalOutcomes', path='<DVTFilePath:0x6000069ab680:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54c140; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fd4f00; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalOutcomes', executablePath='<DVTFilePath:0x600006def2c0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/OneSignalOutcomes'>', hardenedRuntime='0'>'>
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-10-13 12:59:05 +0000  Skipping Info.plist step because item: <IDEDistributionItem: 0x60000e107360; bundleID='ankudinov.org.ua.BAKFramework', path='<DVTFilePath:0x600006dd0690:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/BAKFramework.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54caf0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003ffb840; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='ankudinov.org.ua.BAKFramework', executablePath='<DVTFilePath:0x600006d9e220:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/BAKFramework.framework/BAKFramework'>', hardenedRuntime='0'>'> is a framework or embedded in a framework.
+2023-10-13 12:59:05 +0000  Skipping Info.plist step because item: <IDEDistributionItem: 0x60000e104ea0; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x600006df98f0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54f660; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003ffd500; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x600006da7100:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'> is a framework or embedded in a framework.
+2023-10-13 12:59:05 +0000  Skipping Info.plist step because item: <IDEDistributionItem: 0x60000e11bd80; bundleID='com.onesignal.OneSignalCore', path='<DVTFilePath:0x600006df8ee0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e50d090; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003ffd500; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalCore', executablePath='<DVTFilePath:0x600006d0b6b0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalCore.framework/OneSignalCore'>', hardenedRuntime='0'>'> is a framework or embedded in a framework.
+2023-10-13 12:59:05 +0000  Skipping Info.plist step because item: <IDEDistributionItem: 0x60000e11ab20; bundleID='com.onesignal.OneSignalExtension', path='<DVTFilePath:0x6000069ab780:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalExtension.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e5098b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003ffb840; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalExtension', executablePath='<DVTFilePath:0x600006d0ad10:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalExtension.framework/OneSignalExtension'>', hardenedRuntime='0'>'> is a framework or embedded in a framework.
+2023-10-13 12:59:05 +0000  Skipping Info.plist step because item: <IDEDistributionItem: 0x60000e107840; bundleID='com.onesignal.OneSignalOutcomes', path='<DVTFilePath:0x6000069ab680:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54c140; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fddb00; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalOutcomes', executablePath='<DVTFilePath:0x600006def2c0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/OneSignalOutcomes'>', hardenedRuntime='0'>'> is a framework or embedded in a framework.
+2023-10-13 12:59:05 +0000  Skipping setting DTXcodeBuildDistribution because toolsBuildVersionName was nil.
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionItemRemovalStep
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-10-13 12:59:05 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-10-13 12:59:05 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionSymbolsStep
+2023-10-13 12:59:05 +0000  Processing symbols for BAKFramework.framework
+2023-10-13 12:59:05 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework' '--link-dest' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3'
+2023-10-13 12:59:05 +0000  building file list ... 
+2023-10-13 12:59:05 +0000   0 files...2023-10-13 12:59:05 +0000  6 files to consider
+2023-10-13 12:59:05 +0000  BAKFramework.framework/
+2023-10-13 12:59:05 +0000  BAKFramework.framework/_CodeSignature/
+rsync: link "/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/BAKFramework.framework/_CodeSignature/CodeResources" => /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-10-13 12:59:05 +0000  BAKFramework.framework/_CodeSignature/CodeResources
+2023-10-13 12:59:05 +0000  
+2023-10-13 12:59:05 +0000  sent 249 bytes  received 38 bytes  574.00 bytes/sec
+total size is 8.33M  speedup is 30421.15
+2023-10-13 12:59:05 +0000  /usr/bin/rsync exited with 0
+2023-10-13 12:59:05 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/dSYMs/' '--link-dest' '/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/dSYMs/' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3'
+2023-10-13 12:59:05 +0000  building file list ... 
+2023-10-13 12:59:05 +0000   0 files...2023-10-13 12:59:05 +0000  22 files to consider
+2023-10-13 12:59:05 +0000  ./
+2023-10-13 12:59:05 +0000  BAKFramework.framework.dSYM/
+BAKFramework.framework.dSYM/Contents/
+BAKFramework.framework.dSYM/Contents/Resources/
+BAKFramework.framework.dSYM/Contents/Resources/DWARF/
+BAKFramework.framework.dSYM/Contents/Resources/Swift/
+BAKFramework.framework.dSYM/Contents/Resources/Swift/aarch64/
+Gates of Olympus.app.dSYM/
+Gates of Olympus.app.dSYM/Contents/
+Gates of Olympus.app.dSYM/Contents/Resources/
+Gates of Olympus.app.dSYM/Contents/Resources/DWARF/
+Gates of Olympus.app.dSYM/Contents/Resources/Relocations/
+Gates of Olympus.app.dSYM/Contents/Resources/Relocations/aarch64/
+Gates of Olympus.app.dSYM/Contents/Resources/Swift/
+Gates of Olympus.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-10-13 12:59:05 +0000  
+2023-10-13 12:59:05 +0000  sent 772 bytes  received 110 bytes  1.72K bytes/sec
+total size is 24.85M  speedup is 29538.28
+2023-10-13 12:59:05 +0000  /usr/bin/rsync exited with 0
+2023-10-13 12:59:05 +0000  Writing /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Symbols/24765B00-55E8-3A95-9F3B-0AAE90BDF392.symbols
+2023-10-13 12:59:05 +0000  Processing symbols for OneSignal.framework
+2023-10-13 12:59:05 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignal.framework' '--link-dest' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3'
+2023-10-13 12:59:05 +0000  building file list ... 
+2023-10-13 12:59:05 +0000   0 files...2023-10-13 12:59:05 +0000  5 files to consider
+2023-10-13 12:59:05 +0000  OneSignal.framework/
+2023-10-13 12:59:05 +0000  OneSignal.framework/_CodeSignature/
+rsync: link "/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/OneSignal.framework/_CodeSignature/CodeResources" => /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignal.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-10-13 12:59:05 +0000  OneSignal.framework/_CodeSignature/CodeResources
+2023-10-13 12:59:05 +0000  
+2023-10-13 12:59:05 +0000  sent 221 bytes  received 38 bytes  518.00 bytes/sec
+total size is 805.66K  speedup is 3185.29
+2023-10-13 12:59:05 +0000  /usr/bin/rsync exited with 0
+2023-10-13 12:59:05 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/dSYMs/' '--link-dest' '/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/dSYMs/' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3'
+2023-10-13 12:59:05 +0000  building file list ... 
+2023-10-13 12:59:05 +0000   0 files...2023-10-13 12:59:05 +0000  22 files to consider
+2023-10-13 12:59:05 +0000  ./
+2023-10-13 12:59:05 +0000  BAKFramework.framework.dSYM/
+BAKFramework.framework.dSYM/Contents/
+2023-10-13 12:59:05 +0000  BAKFramework.framework.dSYM/Contents/Resources/
+BAKFramework.framework.dSYM/Contents/Resources/DWARF/
+BAKFramework.framework.dSYM/Contents/Resources/Swift/
+BAKFramework.framework.dSYM/Contents/Resources/Swift/aarch64/
+Gates of Olympus.app.dSYM/
+Gates of Olympus.app.dSYM/Contents/
+Gates of Olympus.app.dSYM/Contents/Resources/
+Gates of Olympus.app.dSYM/Contents/Resources/DWARF/
+Gates of Olympus.app.dSYM/Contents/Resources/Relocations/
+Gates of Olympus.app.dSYM/Contents/Resources/Relocations/aarch64/
+Gates of Olympus.app.dSYM/Contents/Resources/Swift/
+Gates of Olympus.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-10-13 12:59:05 +0000  
+2023-10-13 12:59:05 +0000  sent 814 bytes  received 152 bytes  1.89K bytes/sec
+total size is 24.85M  speedup is 26969.74
+2023-10-13 12:59:05 +0000  /usr/bin/rsync exited with 0
+2023-10-13 12:59:05 +0000  Writing /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Symbols/E8A617E7-776A-3B37-96B6-54F8AF67FC67.symbols
+2023-10-13 12:59:05 +0000  Processing symbols for OneSignalCore.framework
+2023-10-13 12:59:05 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalCore.framework' '--link-dest' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3'
+2023-10-13 12:59:05 +0000  building file list ... 
+2023-10-13 12:59:05 +0000   0 files...2023-10-13 12:59:05 +0000  5 files to consider
+2023-10-13 12:59:05 +0000  OneSignalCore.framework/
+2023-10-13 12:59:05 +0000  OneSignalCore.framework/_CodeSignature/
+rsync: link "/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/OneSignalCore.framework/_CodeSignature/CodeResources" => /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalCore.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-10-13 12:59:05 +0000  OneSignalCore.framework/_CodeSignature/CodeResources
+2023-10-13 12:59:05 +0000  
+2023-10-13 12:59:05 +0000  sent 233 bytes  received 38 bytes  542.00 bytes/sec
+total size is 185.51K  speedup is 700.99
+2023-10-13 12:59:05 +0000  /usr/bin/rsync exited with 0
+2023-10-13 12:59:05 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/dSYMs/' '--link-dest' '/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/dSYMs/' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3'
+2023-10-13 12:59:05 +0000  building file list ... 
+2023-10-13 12:59:05 +0000   0 files...2023-10-13 12:59:05 +0000  22 files to consider
+2023-10-13 12:59:05 +0000  ./
+2023-10-13 12:59:05 +0000  BAKFramework.framework.dSYM/
+BAKFramework.framework.dSYM/Contents/
+BAKFramework.framework.dSYM/Contents/Resources/
+BAKFramework.framework.dSYM/Contents/Resources/DWARF/
+BAKFramework.framework.dSYM/Contents/Resources/Swift/
+2023-10-13 12:59:05 +0000  BAKFramework.framework.dSYM/Contents/Resources/Swift/aarch64/
+Gates of Olympus.app.dSYM/
+Gates of Olympus.app.dSYM/Contents/
+Gates of Olympus.app.dSYM/Contents/Resources/
+Gates of Olympus.app.dSYM/Contents/Resources/DWARF/
+Gates of Olympus.app.dSYM/Contents/Resources/Relocations/
+Gates of Olympus.app.dSYM/Contents/Resources/Relocations/aarch64/
+Gates of Olympus.app.dSYM/Contents/Resources/Swift/
+Gates of Olympus.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-10-13 12:59:05 +0000  
+2023-10-13 12:59:05 +0000  sent 814 bytes  received 152 bytes  1.89K bytes/sec
+total size is 24.85M  speedup is 26969.74
+2023-10-13 12:59:05 +0000  /usr/bin/rsync exited with 0
+2023-10-13 12:59:05 +0000  Writing /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Symbols/FBCFF0B7-5820-3CA3-A356-FD21E104B0AA.symbols
+2023-10-13 12:59:05 +0000  Processing symbols for OneSignalExtension.framework
+2023-10-13 12:59:05 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalExtension.framework' '--link-dest' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3'
+2023-10-13 12:59:05 +0000  building file list ... 
+2023-10-13 12:59:05 +0000   0 files...2023-10-13 12:59:05 +0000  5 files to consider
+2023-10-13 12:59:05 +0000  OneSignalExtension.framework/
+2023-10-13 12:59:05 +0000  OneSignalExtension.framework/_CodeSignature/
+rsync: link "/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/OneSignalExtension.framework/_CodeSignature/CodeResources" => /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalExtension.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-10-13 12:59:05 +0000  OneSignalExtension.framework/_CodeSignature/CodeResources
+2023-10-13 12:59:05 +0000  
+2023-10-13 12:59:05 +0000  sent 239 bytes  received 38 bytes  554.00 bytes/sec
+total size is 112.93K  speedup is 417.49
+2023-10-13 12:59:05 +0000  /usr/bin/rsync exited with 0
+2023-10-13 12:59:05 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/dSYMs/' '--link-dest' '/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/dSYMs/' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3'
+2023-10-13 12:59:05 +0000  building file list ... 
+2023-10-13 12:59:05 +0000   0 files...2023-10-13 12:59:05 +0000  22 files to consider
+2023-10-13 12:59:05 +0000  ./
+2023-10-13 12:59:05 +0000  BAKFramework.framework.dSYM/
+BAKFramework.framework.dSYM/Contents/
+2023-10-13 12:59:05 +0000  BAKFramework.framework.dSYM/Contents/Resources/
+BAKFramework.framework.dSYM/Contents/Resources/DWARF/
+BAKFramework.framework.dSYM/Contents/Resources/Swift/
+BAKFramework.framework.dSYM/Contents/Resources/Swift/aarch64/
+Gates of Olympus.app.dSYM/
+Gates of Olympus.app.dSYM/Contents/
+Gates of Olympus.app.dSYM/Contents/Resources/
+Gates of Olympus.app.dSYM/Contents/Resources/DWARF/
+Gates of Olympus.app.dSYM/Contents/Resources/Relocations/
+Gates of Olympus.app.dSYM/Contents/Resources/Relocations/aarch64/
+Gates of Olympus.app.dSYM/Contents/Resources/Swift/
+Gates of Olympus.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-10-13 12:59:05 +0000  
+2023-10-13 12:59:05 +0000  sent 814 bytes  received 152 bytes  1.89K bytes/sec
+total size is 24.85M  speedup is 26969.74
+2023-10-13 12:59:05 +0000  /usr/bin/rsync exited with 0
+2023-10-13 12:59:05 +0000  Writing /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Symbols/A51CF784-2276-306A-9C24-08496AEDD81D.symbols
+2023-10-13 12:59:05 +0000  Processing symbols for OneSignalOutcomes.framework
+2023-10-13 12:59:05 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework' '--link-dest' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3'
+2023-10-13 12:59:05 +0000  building file list ... 
+2023-10-13 12:59:05 +0000   0 files...2023-10-13 12:59:05 +0000  5 files to consider
+2023-10-13 12:59:05 +0000  OneSignalOutcomes.framework/
+2023-10-13 12:59:05 +0000  OneSignalOutcomes.framework/_CodeSignature/
+rsync: link "/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/OneSignalOutcomes.framework/_CodeSignature/CodeResources" => /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/_CodeSignature/CodeResources failed: Operation not permitted (1)
+2023-10-13 12:59:05 +0000  OneSignalOutcomes.framework/_CodeSignature/CodeResources
+2023-10-13 12:59:05 +0000  
+2023-10-13 12:59:05 +0000  sent 241 bytes  received 38 bytes  558.00 bytes/sec
+total size is 182.99K  speedup is 671.63
+2023-10-13 12:59:05 +0000  /usr/bin/rsync exited with 0
+2023-10-13 12:59:05 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/dSYMs/' '--link-dest' '/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/dSYMs/' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3'
+2023-10-13 12:59:05 +0000  building file list ... 
+2023-10-13 12:59:05 +0000   0 files...2023-10-13 12:59:05 +0000  22 files to consider
+2023-10-13 12:59:05 +0000  ./
+2023-10-13 12:59:05 +0000  BAKFramework.framework.dSYM/
+BAKFramework.framework.dSYM/Contents/
+2023-10-13 12:59:05 +0000  BAKFramework.framework.dSYM/Contents/Resources/
+BAKFramework.framework.dSYM/Contents/Resources/DWARF/
+BAKFramework.framework.dSYM/Contents/Resources/Swift/
+BAKFramework.framework.dSYM/Contents/Resources/Swift/aarch64/
+Gates of Olympus.app.dSYM/
+Gates of Olympus.app.dSYM/Contents/
+Gates of Olympus.app.dSYM/Contents/Resources/
+Gates of Olympus.app.dSYM/Contents/Resources/DWARF/
+Gates of Olympus.app.dSYM/Contents/Resources/Relocations/
+Gates of Olympus.app.dSYM/Contents/Resources/Relocations/aarch64/
+Gates of Olympus.app.dSYM/Contents/Resources/Swift/
+Gates of Olympus.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-10-13 12:59:05 +0000  
+2023-10-13 12:59:05 +0000  sent 814 bytes  received 152 bytes  1.89K bytes/sec
+total size is 24.85M  speedup is 26969.74
+2023-10-13 12:59:05 +0000  /usr/bin/rsync exited with 0
+2023-10-13 12:59:05 +0000  Writing /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Symbols/FD22ECBE-FCEF-38A6-A1C0-F49D876C4C48.symbols
+2023-10-13 12:59:05 +0000  Processing symbols for Gates of Olympus.app
+2023-10-13 12:59:05 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app' '--link-dest' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3'
+2023-10-13 12:59:05 +0000  building file list ... 
+2023-10-13 12:59:05 +0000   0 files...2023-10-13 12:59:05 +0000  38 files to consider
+2023-10-13 12:59:05 +0000  Gates of Olympus.app/
+2023-10-13 12:59:05 +0000  Gates of Olympus.app/Frameworks/
+Gates of Olympus.app/Frameworks/BAKFramework.framework/
+Gates of Olympus.app/Frameworks/BAKFramework.framework/_CodeSignature/
+2023-10-13 12:59:05 +0000  Gates of Olympus.app/Frameworks/OneSignal.framework/
+Gates of Olympus.app/Frameworks/OneSignal.framework/_CodeSignature/
+Gates of Olympus.app/Frameworks/OneSignalCore.framework/
+Gates of Olympus.app/Frameworks/OneSignalCore.framework/_CodeSignature/
+Gates of Olympus.app/Frameworks/OneSignalExtension.framework/
+Gates of Olympus.app/Frameworks/OneSignalExtension.framework/_CodeSignature/
+Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/
+Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/_CodeSignature/
+Gates of Olympus.app/_CodeSignature/
+2023-10-13 12:59:05 +0000  
+2023-10-13 12:59:05 +0000  sent 1.31K bytes  received 98 bytes  2.80K bytes/sec
+total size is 22.99M  speedup is 16798.23
+2023-10-13 12:59:05 +0000  /usr/bin/rsync exited with 0
+2023-10-13 12:59:05 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/dSYMs/' '--link-dest' '/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/dSYMs/' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3'
+2023-10-13 12:59:05 +0000  building file list ... 
+2023-10-13 12:59:05 +0000   0 files...2023-10-13 12:59:05 +0000  22 files to consider
+2023-10-13 12:59:05 +0000  ./
+2023-10-13 12:59:05 +0000  BAKFramework.framework.dSYM/
+BAKFramework.framework.dSYM/Contents/
+BAKFramework.framework.dSYM/Contents/Resources/
+BAKFramework.framework.dSYM/Contents/Resources/DWARF/
+2023-10-13 12:59:05 +0000  BAKFramework.framework.dSYM/Contents/Resources/Swift/
+BAKFramework.framework.dSYM/Contents/Resources/Swift/aarch64/
+Gates of Olympus.app.dSYM/
+Gates of Olympus.app.dSYM/Contents/
+Gates of Olympus.app.dSYM/Contents/Resources/
+Gates of Olympus.app.dSYM/Contents/Resources/DWARF/
+Gates of Olympus.app.dSYM/Contents/Resources/Relocations/
+Gates of Olympus.app.dSYM/Contents/Resources/Relocations/aarch64/
+Gates of Olympus.app.dSYM/Contents/Resources/Swift/
+Gates of Olympus.app.dSYM/Contents/Resources/Swift/aarch64/
+2023-10-13 12:59:05 +0000  
+2023-10-13 12:59:05 +0000  sent 814 bytes  received 152 bytes  1.89K bytes/sec
+total size is 24.85M  speedup is 26969.74
+2023-10-13 12:59:05 +0000  /usr/bin/rsync exited with 0
+2023-10-13 12:59:05 +0000  Writing /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Symbols/2C07D5C9-FF0F-3A42-9F3E-6C12A109E197.symbols
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2023-10-13 12:59:05 +0000  Running /usr/bin/ditto '-V' '/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Signatures' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Signatures'
+2023-10-13 12:59:05 +0000  >>> Copying /Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Signatures 
+2023-10-13 12:59:05 +0000  copying file ./AppsFlyerLib.xcframework-ios.signature ... 
+2023-10-13 12:59:05 +0000  403 bytes for ./AppsFlyerLib.xcframework-ios.signature
+2023-10-13 12:59:05 +0000  copying file ./FBSDKCoreKit.xcframework-ios.signature ... 
+2023-10-13 12:59:05 +0000  403 bytes for ./FBSDKCoreKit.xcframework-ios.signature
+2023-10-13 12:59:05 +0000  copying file ./OneSignalOutcomes.xcframework-ios.signature ... 
+2023-10-13 12:59:05 +0000  408 bytes for ./OneSignalOutcomes.xcframework-ios.signature
+2023-10-13 12:59:05 +0000  copying file ./FBAEMKit.xcframework-ios.signature ... 
+2023-10-13 12:59:05 +0000  399 bytes for ./FBAEMKit.xcframework-ios.signature
+2023-10-13 12:59:05 +0000  copying file ./OneSignal.xcframework-ios.signature ... 
+2023-10-13 12:59:05 +0000  400 bytes for ./OneSignal.xcframework-ios.signature
+2023-10-13 12:59:05 +0000  copying file ./OneSignalExtension.xcframework-ios.signature ... 
+2023-10-13 12:59:05 +0000  409 bytes for ./OneSignalExtension.xcframework-ios.signature
+2023-10-13 12:59:05 +0000  copying file ./TikTokOpenSDK.xcframework-ios.signature ... 
+2023-10-13 12:59:05 +0000  404 bytes for ./TikTokOpenSDK.xcframework-ios.signature
+2023-10-13 12:59:05 +0000  copying file ./OneSignalCore.xcframework-ios.signature ... 
+2023-10-13 12:59:05 +0000  404 bytes for ./OneSignalCore.xcframework-ios.signature
+2023-10-13 12:59:05 +0000  copying file ./FBSDKCoreKit_Basics.xcframework-ios.signature ... 
+2023-10-13 12:59:05 +0000  410 bytes for ./FBSDKCoreKit_Basics.xcframework-ios.signature
+2023-10-13 12:59:05 +0000  copying file ./BAKFramework.xcframework-ios.signature ... 
+2023-10-13 12:59:05 +0000  403 bytes for ./BAKFramework.xcframework-ios.signature
+2023-10-13 12:59:05 +0000  /usr/bin/ditto exited with 0
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionAppThinningStep
+2023-10-13 12:59:05 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionArchThinningStep
+2023-10-13 12:59:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework/BAKFramework' '-verify_arch' 'arm64e'
+2023-10-13 12:59:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-10-13 12:59:05 +0000  Skipping architecture thinning for item "BAKFramework" because arch "arm64e" wasn't found
+2023-10-13 12:59:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignal.framework/OneSignal' '-verify_arch' 'arm64e'
+2023-10-13 12:59:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-10-13 12:59:05 +0000  Skipping architecture thinning for item "OneSignal" because arch "arm64e" wasn't found
+2023-10-13 12:59:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalCore.framework/OneSignalCore' '-verify_arch' 'arm64e'
+2023-10-13 12:59:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-10-13 12:59:05 +0000  Skipping architecture thinning for item "OneSignalCore" because arch "arm64e" wasn't found
+2023-10-13 12:59:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalExtension.framework/OneSignalExtension' '-verify_arch' 'arm64e'
+2023-10-13 12:59:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-10-13 12:59:05 +0000  Skipping architecture thinning for item "OneSignalExtension" because arch "arm64e" wasn't found
+2023-10-13 12:59:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/OneSignalOutcomes' '-verify_arch' 'arm64e'
+2023-10-13 12:59:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-10-13 12:59:05 +0000  Skipping architecture thinning for item "OneSignalOutcomes" because arch "arm64e" wasn't found
+2023-10-13 12:59:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Gates of Olympus' '-verify_arch' 'arm64e'
+2023-10-13 12:59:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-10-13 12:59:05 +0000  Skipping architecture thinning for item "Gates of Olympus" because arch "arm64e" wasn't found
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionODRStep
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-10-13 12:59:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-10-13 12:59:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-10-13 12:59:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-10-13 12:59:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-10-13 12:59:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-10-13 12:59:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-10-13 12:59:05 +0000  Processing step: IDEDistributionCodesignStep
+2023-10-13 12:59:05 +0000  Entitlements for <IDEDistributionItem: 0x60000e107360; bundleID='ankudinov.org.ua.BAKFramework', path='<DVTFilePath:0x600006dd0690:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/BAKFramework.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54caf0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fd0180; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='ankudinov.org.ua.BAKFramework', executablePath='<DVTFilePath:0x600006d9e220:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/BAKFramework.framework/BAKFramework'>', hardenedRuntime='0'>'>: {
+}
+2023-10-13 12:59:05 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-10-13 12:59:05 +0000  Entitlements for <IDEDistributionItem: 0x60000e107360; bundleID='ankudinov.org.ua.BAKFramework', path='<DVTFilePath:0x600006dd0690:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/BAKFramework.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54caf0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fd0240; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='ankudinov.org.ua.BAKFramework', executablePath='<DVTFilePath:0x600006d9e220:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/BAKFramework.framework/BAKFramework'>', hardenedRuntime='0'>'> are: {
+}
+2023-10-13 12:59:05 +0000  Writing entitlements for <IDEDistributionItem: 0x60000e107360; bundleID='ankudinov.org.ua.BAKFramework', path='<DVTFilePath:0x600006dd0690:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/BAKFramework.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54caf0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fd0300; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='ankudinov.org.ua.BAKFramework', executablePath='<DVTFilePath:0x600006d9e220:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/BAKFramework.framework/BAKFramework'>', hardenedRuntime='0'>'> to: /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/entitlements~~~GNROA7
+2023-10-13 12:59:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '213BAADB3725310C8572E654BF12F97971166FA9' '--entitlements' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/entitlements~~~GNROA7' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework'
+2023-10-13 12:59:06 +0000  /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework: replacing existing signature
+2023-10-13 12:59:06 +0000  /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework: signed bundle with Mach-O thin (arm64) [ankudinov.org.ua.BAKFramework]
+2023-10-13 12:59:06 +0000  /usr/bin/codesign exited with 0
+2023-10-13 12:59:06 +0000  Entitlements for <IDEDistributionItem: 0x60000e104ea0; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x600006df98f0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54f660; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fd0180; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x600006da7100:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'>: {
+}
+2023-10-13 12:59:06 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-10-13 12:59:06 +0000  Entitlements for <IDEDistributionItem: 0x60000e104ea0; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x600006df98f0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54f660; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fde280; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x600006da7100:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'> are: {
+}
+2023-10-13 12:59:06 +0000  Writing entitlements for <IDEDistributionItem: 0x60000e104ea0; bundleID='com.onesignal.OneSignal-Dynamic', path='<DVTFilePath:0x600006df98f0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54f660; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fddbc0; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignal-Dynamic', executablePath='<DVTFilePath:0x600006da7100:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignal.framework/OneSignal'>', hardenedRuntime='0'>'> to: /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/entitlements~~~rTpL8X
+2023-10-13 12:59:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '213BAADB3725310C8572E654BF12F97971166FA9' '--entitlements' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/entitlements~~~rTpL8X' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignal.framework'
+2023-10-13 12:59:06 +0000  /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignal.framework: replacing existing signature
+2023-10-13 12:59:06 +0000  /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignal.framework: signed bundle with Mach-O thin (arm64) [com.onesignal.OneSignal-Dynamic]
+2023-10-13 12:59:06 +0000  /usr/bin/codesign exited with 0
+2023-10-13 12:59:06 +0000  Entitlements for <IDEDistributionItem: 0x60000e11bd80; bundleID='com.onesignal.OneSignalCore', path='<DVTFilePath:0x600006df8ee0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e50d090; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fde280; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalCore', executablePath='<DVTFilePath:0x600006d0b6b0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalCore.framework/OneSignalCore'>', hardenedRuntime='0'>'>: {
+}
+2023-10-13 12:59:06 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-10-13 12:59:06 +0000  Entitlements for <IDEDistributionItem: 0x60000e11bd80; bundleID='com.onesignal.OneSignalCore', path='<DVTFilePath:0x600006df8ee0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e50d090; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fddbc0; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalCore', executablePath='<DVTFilePath:0x600006d0b6b0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalCore.framework/OneSignalCore'>', hardenedRuntime='0'>'> are: {
+}
+2023-10-13 12:59:06 +0000  Writing entitlements for <IDEDistributionItem: 0x60000e11bd80; bundleID='com.onesignal.OneSignalCore', path='<DVTFilePath:0x600006df8ee0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalCore.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e50d090; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fdf0c0; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalCore', executablePath='<DVTFilePath:0x600006d0b6b0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalCore.framework/OneSignalCore'>', hardenedRuntime='0'>'> to: /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/entitlements~~~6Mvkyg
+2023-10-13 12:59:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '213BAADB3725310C8572E654BF12F97971166FA9' '--entitlements' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/entitlements~~~6Mvkyg' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalCore.framework'
+2023-10-13 12:59:06 +0000  /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalCore.framework: replacing existing signature
+2023-10-13 12:59:06 +0000  /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalCore.framework: signed bundle with Mach-O thin (arm64) [com.onesignal.OneSignalCore]
+2023-10-13 12:59:06 +0000  /usr/bin/codesign exited with 0
+2023-10-13 12:59:06 +0000  Entitlements for <IDEDistributionItem: 0x60000e11ab20; bundleID='com.onesignal.OneSignalExtension', path='<DVTFilePath:0x6000069ab780:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalExtension.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e5098b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fde280; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalExtension', executablePath='<DVTFilePath:0x600006d0ad10:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalExtension.framework/OneSignalExtension'>', hardenedRuntime='0'>'>: {
+}
+2023-10-13 12:59:06 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-10-13 12:59:06 +0000  Entitlements for <IDEDistributionItem: 0x60000e11ab20; bundleID='com.onesignal.OneSignalExtension', path='<DVTFilePath:0x6000069ab780:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalExtension.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e5098b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fddbc0; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalExtension', executablePath='<DVTFilePath:0x600006d0ad10:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalExtension.framework/OneSignalExtension'>', hardenedRuntime='0'>'> are: {
+}
+2023-10-13 12:59:06 +0000  Writing entitlements for <IDEDistributionItem: 0x60000e11ab20; bundleID='com.onesignal.OneSignalExtension', path='<DVTFilePath:0x6000069ab780:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalExtension.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e5098b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fdf0c0; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalExtension', executablePath='<DVTFilePath:0x600006d0ad10:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalExtension.framework/OneSignalExtension'>', hardenedRuntime='0'>'> to: /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/entitlements~~~XR9CDW
+2023-10-13 12:59:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '213BAADB3725310C8572E654BF12F97971166FA9' '--entitlements' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/entitlements~~~XR9CDW' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalExtension.framework'
+2023-10-13 12:59:06 +0000  /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalExtension.framework: replacing existing signature
+2023-10-13 12:59:06 +0000  /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalExtension.framework: signed bundle with Mach-O thin (arm64) [com.onesignal.OneSignalExtension]
+2023-10-13 12:59:06 +0000  /usr/bin/codesign exited with 0
+2023-10-13 12:59:06 +0000  Entitlements for <IDEDistributionItem: 0x60000e107840; bundleID='com.onesignal.OneSignalOutcomes', path='<DVTFilePath:0x6000069ab680:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54c140; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fde280; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalOutcomes', executablePath='<DVTFilePath:0x600006def2c0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/OneSignalOutcomes'>', hardenedRuntime='0'>'>: {
+}
+2023-10-13 12:59:06 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-10-13 12:59:06 +0000  Entitlements for <IDEDistributionItem: 0x60000e107840; bundleID='com.onesignal.OneSignalOutcomes', path='<DVTFilePath:0x6000069ab680:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54c140; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fddbc0; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalOutcomes', executablePath='<DVTFilePath:0x600006def2c0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/OneSignalOutcomes'>', hardenedRuntime='0'>'> are: {
+}
+2023-10-13 12:59:06 +0000  Writing entitlements for <IDEDistributionItem: 0x60000e107840; bundleID='com.onesignal.OneSignalOutcomes', path='<DVTFilePath:0x6000069ab680:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e54c140; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fdf0c0; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='(null)', teamID='T4XNUM422J', identifier='com.onesignal.OneSignalOutcomes', executablePath='<DVTFilePath:0x600006def2c0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/OneSignalOutcomes'>', hardenedRuntime='0'>'> to: /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/entitlements~~~Vetac3
+2023-10-13 12:59:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '213BAADB3725310C8572E654BF12F97971166FA9' '--entitlements' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/entitlements~~~Vetac3' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework'
+2023-10-13 12:59:06 +0000  /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework: replacing existing signature
+2023-10-13 12:59:06 +0000  /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework: signed bundle with Mach-O thin (arm64) [com.onesignal.OneSignalOutcomes]
+2023-10-13 12:59:06 +0000  /usr/bin/codesign exited with 0
+2023-10-13 12:59:06 +0000  Entitlements for <IDEDistributionItem: 0x60000e11f540; bundleID='com.swiftui.app.Gates-of-Olympus', path='<DVTFilePath:0x600006d99b90:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e518e60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fd0180; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='{
+    "application-identifier" = "T4XNUM422J.com.swiftui.app.Gates-of-Olympus";
+    "com.apple.developer.team-identifier" = T4XNUM422J;
+    "get-task-allow" = 1;
+}', teamID='T4XNUM422J', identifier='com.swiftui.app.Gates-of-Olympus', executablePath='<DVTFilePath:0x600006d0d8f0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Gates of Olympus'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "T4XNUM422J.com.swiftui.app.Gates-of-Olympus";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = T4XNUM422J;
+    "get-task-allow" = 0;
+}
+2023-10-13 12:59:06 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-10-13 12:59:06 +0000  Entitlements for <IDEDistributionItem: 0x60000e11f540; bundleID='com.swiftui.app.Gates-of-Olympus', path='<DVTFilePath:0x600006d99b90:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e518e60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fde280; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='{
+    "application-identifier" = "T4XNUM422J.com.swiftui.app.Gates-of-Olympus";
+    "com.apple.developer.team-identifier" = T4XNUM422J;
+    "get-task-allow" = 1;
+}', teamID='T4XNUM422J', identifier='com.swiftui.app.Gates-of-Olympus', executablePath='<DVTFilePath:0x600006d0d8f0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Gates of Olympus'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "T4XNUM422J.com.swiftui.app.Gates-of-Olympus";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = T4XNUM422J;
+    "get-task-allow" = 0;
+}
+2023-10-13 12:59:06 +0000  Writing entitlements for <IDEDistributionItem: 0x60000e11f540; bundleID='com.swiftui.app.Gates-of-Olympus', path='<DVTFilePath:0x600006d99b90:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60000e518e60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600003fddbc0; name='Apple Development: Nandini Vithlani (V3CLD98NY7)', hash='AC5F2E2A157A08847194DEF9F6B35AE5AD630C92', serialNumber='3F9CA4BF9199E83ED3BECBA3C91E4B07', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-22 04:52:30 +0000''>', entitlements='{
+    "application-identifier" = "T4XNUM422J.com.swiftui.app.Gates-of-Olympus";
+    "com.apple.developer.team-identifier" = T4XNUM422J;
+    "get-task-allow" = 1;
+}', teamID='T4XNUM422J', identifier='com.swiftui.app.Gates-of-Olympus', executablePath='<DVTFilePath:0x600006d0d8f0:'/Users/nandinivithlani/Library/Developer/Xcode/Archives/2023-10-13/Gates of Olympus 13-10-23, 6.28 PM.xcarchive/Products/Applications/Gates of Olympus.app/Gates of Olympus'>', hardenedRuntime='0'>'> to: /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/entitlements~~~XFqbM1
+2023-10-13 12:59:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '213BAADB3725310C8572E654BF12F97971166FA9' '--entitlements' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/entitlements~~~XFqbM1' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app'
+2023-10-13 12:59:06 +0000  /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app: replacing existing signature
+2023-10-13 12:59:06 +0000  /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app: signed app bundle with Mach-O thin (arm64) [com.swiftui.app.Gates-of-Olympus]
+2023-10-13 12:59:06 +0000  /usr/bin/codesign exited with 0
+2023-10-13 12:59:06 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-10-13 12:59:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-10-13 12:59:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-10-13 12:59:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-10-13 12:59:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-10-13 12:59:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-10-13 12:59:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-10-13 12:59:06 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-10-13 12:59:06 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Symbols' '--link-dest' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root'
+2023-10-13 12:59:06 +0000  building file list ... 
+2023-10-13 12:59:06 +0000   0 files...2023-10-13 12:59:06 +0000  7 files to consider
+2023-10-13 12:59:06 +0000  Symbols/
+2023-10-13 12:59:06 +0000  
+2023-10-13 12:59:06 +0000  sent 411 bytes  received 26 bytes  874.00 bytes/sec
+total size is 9.76M  speedup is 23412.16
+2023-10-13 12:59:06 +0000  /usr/bin/rsync exited with 0
+2023-10-13 12:59:06 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root' '/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Packages/Gates of Olympus.ipa'
+2023-10-13 12:59:06 +0000  >>> Copying /var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root 
+2023-10-13 12:59:06 +0000  copying file ./Signatures/AppsFlyerLib.xcframework-ios.signature ... 
+2023-10-13 12:59:06 +0000  403 bytes for ./Signatures/AppsFlyerLib.xcframework-ios.signature
+2023-10-13 12:59:06 +0000  copying file ./Signatures/FBSDKCoreKit.xcframework-ios.signature ... 
+2023-10-13 12:59:06 +0000  403 bytes for ./Signatures/FBSDKCoreKit.xcframework-ios.signature
+2023-10-13 12:59:06 +0000  copying file ./Signatures/OneSignalOutcomes.xcframework-ios.signature ... 
+2023-10-13 12:59:06 +0000  408 bytes for ./Signatures/OneSignalOutcomes.xcframework-ios.signature
+copying file ./Signatures/FBAEMKit.xcframework-ios.signature ... 
+2023-10-13 12:59:06 +0000  399 bytes for ./Signatures/FBAEMKit.xcframework-ios.signature
+2023-10-13 12:59:06 +0000  copying file ./Signatures/OneSignal.xcframework-ios.signature ... 
+2023-10-13 12:59:06 +0000  400 bytes for ./Signatures/OneSignal.xcframework-ios.signature
+copying file ./Signatures/OneSignalExtension.xcframework-ios.signature ... 
+2023-10-13 12:59:06 +0000  409 bytes for ./Signatures/OneSignalExtension.xcframework-ios.signature
+2023-10-13 12:59:06 +0000  copying file ./Signatures/TikTokOpenSDK.xcframework-ios.signature ... 
+2023-10-13 12:59:06 +0000  404 bytes for ./Signatures/TikTokOpenSDK.xcframework-ios.signature
+copying file ./Signatures/OneSignalCore.xcframework-ios.signature ... 
+2023-10-13 12:59:06 +0000  404 bytes for ./Signatures/OneSignalCore.xcframework-ios.signature
+2023-10-13 12:59:06 +0000  copying file ./Signatures/FBSDKCoreKit_Basics.xcframework-ios.signature ... 
+2023-10-13 12:59:06 +0000  410 bytes for ./Signatures/FBSDKCoreKit_Basics.xcframework-ios.signature
+copying file ./Signatures/BAKFramework.xcframework-ios.signature ... 
+2023-10-13 12:59:06 +0000  403 bytes for ./Signatures/BAKFramework.xcframework-ios.signature
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/_CodeSignature/CodeResources ... 
+2023-10-13 12:59:06 +0000  7665 bytes for ./Payload/Gates of Olympus.app/_CodeSignature/CodeResources
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/AppIcon60x60@2x.png ... 
+2023-10-13 12:59:06 +0000  40997 bytes for ./Payload/Gates of Olympus.app/AppIcon60x60@2x.png
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/GoogleService-Info.plist ... 
+2023-10-13 12:59:06 +0000  514 bytes for ./Payload/Gates of Olympus.app/GoogleService-Info.plist
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Gates of Olympus ... 
+2023-10-13 12:59:06 +0000  315696 bytes for ./Payload/Gates of Olympus.app/Gates of Olympus
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Assets.car ... 
+2023-10-13 12:59:06 +0000  13609151 bytes for ./Payload/Gates of Olympus.app/Assets.car
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/AppIcon76x76@2x~ipad.png ... 
+2023-10-13 12:59:06 +0000  64655 bytes for ./Payload/Gates of Olympus.app/AppIcon76x76@2x~ipad.png
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/OneSignal.framework/_CodeSignature/CodeResources ... 
+2023-10-13 12:59:06 +0000  1798 bytes for ./Payload/Gates of Olympus.app/Frameworks/OneSignal.framework/_CodeSignature/CodeResources
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/OneSignal.framework/OneSignal ... 
+2023-10-13 12:59:06 +0000  822736 bytes for ./Payload/Gates of Olympus.app/Frameworks/OneSignal.framework/OneSignal
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/OneSignal.framework/Info.plist ... 
+2023-10-13 12:59:06 +0000  761 bytes for ./Payload/Gates of Olympus.app/Frameworks/OneSignal.framework/Info.plist
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework/_CodeSignature/CodeResources ... 
+2023-10-13 12:59:06 +0000  2012 bytes for ./Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework/_CodeSignature/CodeResources
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework/Assets.car ... 
+2023-10-13 12:59:06 +0000  48559 bytes for ./Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework/Assets.car
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework/BAKFramework ... 
+2023-10-13 12:59:06 +0000  8679792 bytes for ./Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework/BAKFramework
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework/Info.plist ... 
+2023-10-13 12:59:06 +0000  763 bytes for ./Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework/Info.plist
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/OneSignalExtension.framework/_CodeSignature/CodeResources ... 
+2023-10-13 12:59:06 +0000  1798 bytes for ./Payload/Gates of Olympus.app/Frameworks/OneSignalExtension.framework/_CodeSignature/CodeResources
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/OneSignalExtension.framework/OneSignalExtension ... 
+2023-10-13 12:59:06 +0000  113392 bytes for ./Payload/Gates of Olympus.app/Frameworks/OneSignalExtension.framework/OneSignalExtension
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/OneSignalExtension.framework/Info.plist ... 
+2023-10-13 12:59:06 +0000  774 bytes for ./Payload/Gates of Olympus.app/Frameworks/OneSignalExtension.framework/Info.plist
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/OneSignalCore.framework/_CodeSignature/CodeResources ... 
+2023-10-13 12:59:06 +0000  1798 bytes for ./Payload/Gates of Olympus.app/Frameworks/OneSignalCore.framework/_CodeSignature/CodeResources
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/OneSignalCore.framework/Info.plist ... 
+2023-10-13 12:59:06 +0000  761 bytes for ./Payload/Gates of Olympus.app/Frameworks/OneSignalCore.framework/Info.plist
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/OneSignalCore.framework/OneSignalCore ... 
+2023-10-13 12:59:06 +0000  187712 bytes for ./Payload/Gates of Olympus.app/Frameworks/OneSignalCore.framework/OneSignalCore
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/_CodeSignature/CodeResources ... 
+2023-10-13 12:59:06 +0000  1798 bytes for ./Payload/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/_CodeSignature/CodeResources
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/Info.plist ... 
+2023-10-13 12:59:06 +0000  771 bytes for ./Payload/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/Info.plist
+copying file ./Payload/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/OneSignalOutcomes ... 
+2023-10-13 12:59:06 +0000  185120 bytes for ./Payload/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework/OneSignalOutcomes
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/embedded.mobileprovision ... 
+2023-10-13 12:59:06 +0000  16538 bytes for ./Payload/Gates of Olympus.app/embedded.mobileprovision
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/Info.plist ... 
+2023-10-13 12:59:06 +0000  1456 bytes for ./Payload/Gates of Olympus.app/Info.plist
+2023-10-13 12:59:06 +0000  copying file ./Payload/Gates of Olympus.app/PkgInfo ... 
+2023-10-13 12:59:06 +0000  8 bytes for ./Payload/Gates of Olympus.app/PkgInfo
+2023-10-13 12:59:06 +0000  copying file ./Symbols/A51CF784-2276-306A-9C24-08496AEDD81D.symbols ... 
+2023-10-13 12:59:06 +0000  29548 bytes for ./Symbols/A51CF784-2276-306A-9C24-08496AEDD81D.symbols
+2023-10-13 12:59:06 +0000  copying file ./Symbols/E8A617E7-776A-3B37-96B6-54F8AF67FC67.symbols ... 
+2023-10-13 12:59:06 +0000  340412 bytes for ./Symbols/E8A617E7-776A-3B37-96B6-54F8AF67FC67.symbols
+2023-10-13 12:59:06 +0000  copying file ./Symbols/24765B00-55E8-3A95-9F3B-0AAE90BDF392.symbols ... 
+2023-10-13 12:59:07 +0000  9270924 bytes for ./Symbols/24765B00-55E8-3A95-9F3B-0AAE90BDF392.symbols
+2023-10-13 12:59:07 +0000  copying file ./Symbols/FD22ECBE-FCEF-38A6-A1C0-F49D876C4C48.symbols ... 
+2023-10-13 12:59:07 +0000  59924 bytes for ./Symbols/FD22ECBE-FCEF-38A6-A1C0-F49D876C4C48.symbols
+2023-10-13 12:59:07 +0000  copying file ./Symbols/FBCFF0B7-5820-3CA3-A356-FD21E104B0AA.symbols ... 
+2023-10-13 12:59:07 +0000  61556 bytes for ./Symbols/FBCFF0B7-5820-3CA3-A356-FD21E104B0AA.symbols
+2023-10-13 12:59:07 +0000  copying file ./Symbols/2C07D5C9-FF0F-3A42-9F3E-6C12A109E197.symbols ... 
+2023-10-13 12:59:07 +0000  468748 bytes for ./Symbols/2C07D5C9-FF0F-3A42-9F3E-6C12A109E197.symbols
+2023-10-13 12:59:07 +0000  /usr/bin/ditto exited with 0
+2023-10-13 12:59:07 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-10-13 12:59:07 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-10-13 12:59:07 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-10-13 12:59:07 +0000  IDEDistributionItem init <DVTFilePath:0x600006920700:'/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalOutcomes.framework'>
+2023-10-13 12:59:07 +0000  IDEDistributionItem init <DVTFilePath:0x600006d37aa0:'/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/BAKFramework.framework'>
+2023-10-13 12:59:07 +0000  IDEDistributionItem init <DVTFilePath:0x600006921e00:'/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalExtension.framework'>
+2023-10-13 12:59:07 +0000  IDEDistributionItem init <DVTFilePath:0x600006d34620:'/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignalCore.framework'>
+2023-10-13 12:59:07 +0000  IDEDistributionItem init <DVTFilePath:0x600006d338e0:'/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app/Frameworks/OneSignal.framework'>
+2023-10-13 12:59:07 +0000  IDEDistributionItem init <DVTFilePath:0x600006dc1e30:'/var/folders/zl/qp3rjdc13_s3q2164myb8mtw0000gn/T/XcodeDistPipeline.~~~cRgwB3/Root/Payload/Gates of Olympus.app'>
+2023-10-13 12:59:07 +0000  Processing step: IDEDistributionCreateManifestStep
+2023-10-13 12:59:07 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

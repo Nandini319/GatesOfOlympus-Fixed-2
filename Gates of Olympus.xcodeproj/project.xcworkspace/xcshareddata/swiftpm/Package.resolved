@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "appsflyerframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git",
+      "state" : {
+        "revision" : "0d8359239a349db4ac2aba8efe2ad8835fc799b5",
+        "version" : "6.12.2"
+      }
+    },
+    {
+      "identity" : "bak_optimized",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/balabantim/BAK_OPTIMIZED.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d426eb06a15e07c51ff122059834ad14e7109d43"
+      }
+    },
+    {
+      "identity" : "facebook-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/facebook/facebook-ios-sdk.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "de74c60d268f51fa1139f8e46e40710baf029f54"
+      }
+    },
+    {
+      "identity" : "sbpasyncimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yutailang0119/SBPAsyncImage",
+      "state" : {
+        "revision" : "b1fd0fa16eaa58ae29f728160020ef1b78de740d",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "swiftui-tooltip",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/quassum/SwiftUI-Tooltip",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3bef9a21e2bcf1d0f078ddf6731c3c8996f32c3e"
+      }
+    }
+  ],
+  "version" : 2
+}
